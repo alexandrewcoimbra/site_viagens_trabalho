@@ -1,0 +1,19 @@
+.timbo {
+  height: 142.55px;
+  object-fit: cover;
+
+}
+
+.saopaulo {
+  height: 254.25px;
+  width: 285.76px;
+}
+
+.grande {
+  height: 370px;
+  object-fit: cover;
+}
+
+.card-spacing {
+  margin-bottom: 1000px;
+}
